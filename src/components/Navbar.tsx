@@ -15,7 +15,6 @@ const Navbar = () => {
     //All screens to go to
     const navItems : NavLink[] = [
         { path: '/', name: 'Home' },
-        { path: '/about', name: 'About Me' },
         { path: '/projects', name: 'Projects' },
         { path: '/experience', name: 'Experience' },
         { path: '/contact', name: 'Contact' },

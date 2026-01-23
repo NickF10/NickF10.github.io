@@ -18,7 +18,7 @@ const Experience = () => {
               <img src={microsoftLogo} alt="Microsoft" />
             </div>
             <div className="company-info">
-              <h2>Datacenter Technician II</h2>
+              <h2>Datacenter Technician III</h2>
               <h3>Microsoft</h3>
               <p className="contract-note">Contract through Insight Global</p>
             </div>
@@ -28,8 +28,8 @@ const Experience = () => {
           </div>
           <div className="experience-content">
             <ul>
-              <li>Maintained and deployed datacenter hardware, including servers, switches, racks, and storage devices to ensure uptime and performance. Created rack layouts to support efficient deployment and airflow.</li>
-              <li>Supported day-to-day operations by monitoring equipment and resolving hardware issues.</li>
+              <li>Maintained and deployed datacenter hardware, including servers, switches, racks, and storage devices to ensure uptime and performance. Created cable maps documenting physical network connections.</li>
+              <li>Supported day-to-day operations by monitoring and troubleshooting hardware and connection issues.</li>
             </ul>
           </div>
         </div>
