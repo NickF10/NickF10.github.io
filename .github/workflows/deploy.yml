@@ -1,4 +1,10 @@
+
 name: Build and deploy to GitHub Pages
+
+# Ensure the GITHUB_TOKEN has write permissions needed to push to gh-pages
+permissions:
+  contents: write
+  pages: write
 
 on:
   push:
