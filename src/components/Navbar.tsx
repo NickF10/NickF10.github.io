@@ -47,7 +47,7 @@ const Navbar = () => {
 
                 {/* Created clickable github icon to open personal github page */}
                 <li className="github-icon">
-                    <a href="https://github.com/Nickick10" target="_blank" rel="noopener noreferrer">
+                    <a href="https://github.com/NickF10" target="_blank" rel="noopener noreferrer">
                         <img src={GithubLogo} alt="GitHub" />
                     </a>
                 </li>
