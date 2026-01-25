@@ -58,7 +58,10 @@ const Contact: React.FC = () => {
 
 	return (
 		<div className="contact-page">
-			<h2>Contact Me</h2>
+			<div className="contact-header">
+				<h2>Contact Me</h2>
+				<p className="contact-subtitle">Feel free to contact me if you want to connect or have any questions!</p>
+			</div>
 			<form className="contact-form" onSubmit={handleSubmit}>
 				<label>
 					Name
