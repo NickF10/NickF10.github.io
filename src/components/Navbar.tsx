@@ -54,7 +54,7 @@ const Navbar = () => {
 
                 {/* Created clickable linkedin icon to open personal linkedin page */}
                 <li className="linkedin-icon">
-                    <a href="https://www.linkedin.com/in/nicholas-filipov-a057a4224/" target="_blank" rel="noopener noreferrer">
+                    <a href="https://www.linkedin.com/in/nicholasfilipov/" target="_blank" rel="noopener noreferrer">
                         <img src={LinkedInLogo} alt="LinkedIn" />
                     </a>
                 </li>
