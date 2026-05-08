@@ -19,9 +19,9 @@ const About = () => (
         </p>
         
         <p>
-          I'm always excited to take on new challenges and push the boundaries of what I can do. 
-          Whether it's refining a product, collaborating on a team, or learning a new framework, 
-          I love the process of bringing ideas to life through code.
+          I’m always excited to take on new challenges and keep growing as a developer.
+          Whether it’s improving a project, collaborating with a team, or picking up new skills,
+          I enjoy the process of turning ideas into something real through code.
         </p>
         
         <p>
