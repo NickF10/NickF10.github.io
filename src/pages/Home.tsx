@@ -27,7 +27,7 @@ const About = () => (
         <p>
           Feel free to check out my portfolio to see some of the work I've done. 
           If you'd like to connect, collaborate, or just say hi, head over to the contact 
-          page—I'd love to hear from you!
+          page-I'd love to hear from you!
         </p>
       </div>
 
